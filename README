@@ -3,4 +3,9 @@ Repository for collect the script to setup jetson nano
 
 # NOTES for jetson-inference
 1. change default-camera to support usb camera
-2.  
+
+# Switch Power Mode
+ Mode 0 is 10W, Mode 1 is 5W. To set the mode to 5 Watt mode:
+ To set it back to 10 Watt mode:
+ $ sudo nvpmodel 1
+ $ sudo nvpmodel 0

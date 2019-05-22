@@ -1,1 +1,6 @@
+
 Repository for collect the script to setup jetson nano
+
+# NOTES for jetson-inference
+1. change default-camera to support usb camera
+2.  

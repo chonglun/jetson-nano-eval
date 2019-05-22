@@ -8,6 +8,7 @@ cmake ../
 cd jetson-inference/build			# omit if pwd is already /build from above
 make
 sudo make install
+cd ~/
 
 # follow this https://github.com/dusty-nv/jetson-inference/blob/master/docs/building-repo.md
 # Doc https://github.com/dusty-nv/jetson-inference

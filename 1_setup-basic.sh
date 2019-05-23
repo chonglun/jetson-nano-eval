@@ -8,3 +8,4 @@ sudo apt-get install libblas-dev liblapack-dev
 sudo apt-get install libatlas-base-dev -y
 sudo apt-get install build-essential cmake libgtk-3-dev libboost-all-dev -y 
 sudo apt-get install nano -y
+sudo apt-get install vlc

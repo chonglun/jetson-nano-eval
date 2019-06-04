@@ -1,4 +1,4 @@
-mkdir temp; cd temp
+mkdir ~/temp; cd ~/temp
 git clone https://github.com/davisking/dlib.git
 cd dlib
 mkdir build

@@ -1,5 +1,6 @@
 sudo apt-get install virtualenv -y
-mkdir envs; cd envs
+mkdir ~/envs
+cd ~/envs
 virtualenv –p python3 AI
 source ~/envs/AI/bin/activate
 echo ' source ~/envs/AI/bin/activate ' >> ~/.bashrc

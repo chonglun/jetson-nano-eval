@@ -1,4 +1,5 @@
-sudo apt-get install git cmake
+sudo apt-get install git cmake doxygen gcc g++ qt4-qmake libqt4-dev libglew-dev-y
+cd ~/temp
 git clone https://github.com/dusty-nv/jetson-inference
 cd jetson-inference
 git submodule update --init
